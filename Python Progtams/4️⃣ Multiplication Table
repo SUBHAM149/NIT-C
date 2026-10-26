@@ -1,4 +1,5 @@
-4️⃣ Multiplication Table
+08.Multiplication Table
+-------------------------
 python
 # Program to print multiplication table of 5
 for i in range(1, 11):
